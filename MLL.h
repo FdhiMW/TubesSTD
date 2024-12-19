@@ -2,7 +2,6 @@
 //  MLL.h
 //  Tubes_STD
 //
-//  Created by Fadhilla on 01/12/24.
 //
 
 #ifndef MLL_h
