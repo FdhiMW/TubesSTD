@@ -2,7 +2,6 @@
 //  MLL.cpp
 //  Tubes_STD
 //
-//  Created by Fadhilla on 01/12/24.
 //
 
 #include <stdio.h>
