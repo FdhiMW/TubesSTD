@@ -2,6 +2,7 @@ Tubes STD
 
 Kelompok 20
 Fadhilla M. Wiryasukma - 103012300303
+
 Nur Afny Putri Pratiwi Is - 1301223256
 
 Rancanglah model multi-linked list yang dapat memodelkan antara printer dengan daftar antrian tugas pada printer
